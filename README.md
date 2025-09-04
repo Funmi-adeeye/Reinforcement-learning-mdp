@@ -50,6 +50,4 @@ Medium Dataset: Raw score -0.16 | Leaderboard 103.85 ✅
 
 Large Dataset: Raw score 303.48 | Leaderboard 3033.73 ✅
 
-🙌 Author
-Kehinde Obidele
-Health Informatics | Reinforcement Learning | Decision Support
+
